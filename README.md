@@ -1,3 +1,3 @@
 # Kokoa Clone has been started by me!
 
-Css is amazing
+HTML and CSS is so much fun for me!
